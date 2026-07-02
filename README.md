@@ -1,2 +1,14 @@
-# geojson
-KAMI clj-wgsl migration Phase 4 home (ADR-2607010930) — scaffold, Wave-2 port lands here
+# kotoba-lang/geojson
+
+GeoJSON builders and JSON emitter.
+
+Namespaces:
+
+- `geojson.core`
+- `kotoba.geojson`
+
+## Test
+
+```sh
+clojure -M:test
+```
